@@ -1,7 +1,7 @@
 {
   "name": "cra-template-react-framework",
   "description": "React template to create app with react, redux, mui, styled-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "author": {
     "name": "Vamshi Maddur",
