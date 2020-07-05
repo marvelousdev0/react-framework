@@ -1,7 +1,7 @@
 {
   "name": "react-framework-client",
   "description": "React template to create app with react, redux, mui, styled-components",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": false,
   "author": {
     "name": "Vamshi Maddur",
